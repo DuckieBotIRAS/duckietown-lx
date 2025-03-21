@@ -1,0 +1,3 @@
+[submodule "reinforced-learning"]
+	path = reinforced-learning
+	url = git@github.com:DuckieBotIRAS/reinforced-learning.git
